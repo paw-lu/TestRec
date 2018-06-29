@@ -104,4 +104,6 @@ venv.bak/
 .mypy_cache/
 
 movie-metadatacsv.zip
+movie_metadata.csv
 
+/the-movies-dataset
